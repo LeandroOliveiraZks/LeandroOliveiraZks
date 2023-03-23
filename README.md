@@ -12,8 +12,5 @@
 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-[![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=LeandroOliveiraZks&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroOliveiraZks&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-
+<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=LeandroOliveiraZks&show_icons=true&theme=dark" alt="ashok" />
+<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroOliveiraZks&count_private=true&theme=dark" alt="ashok" /> 
