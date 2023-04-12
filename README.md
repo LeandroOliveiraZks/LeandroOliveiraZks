@@ -12,5 +12,5 @@
 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=LeandroOliveiraZks&show_icons=true&theme=dark" alt="ashok" />
-<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroOliveiraZks&count_private=true&theme=dark" alt="ashok" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=LeandroOliveiraZks&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroOliveiraZks&count_private=true&theme=dark"  /> 
